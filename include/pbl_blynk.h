@@ -1,0 +1,11 @@
+#ifndef PBL_BLYNK_H
+#define BLYNK_TEMPLATE_ID "TMPL6cd5a9ReM"
+#define BLYNK_TEMPLATE_NAME "WATER QUALITY MONITORING SYSTEM"
+#define BLYNK_AUTH_TOKEN "Q3dTCZgWjE65UNxnifT23ZwNatE8Im9z"
+#define BLYNK_PRINT Serial
+#define TDS_BLYNK V2
+#define TEMP_BLYNK V0
+#define PH_BLYNK V1
+#define NTU_BLYNK V3
+#define Led V4
+#endif
